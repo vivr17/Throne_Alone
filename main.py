@@ -2,4 +2,4 @@ print('test_git_shi')
 #test comment
 print("number 2")
 
-print("Tyjolion Netanyahu Nixon")
+print("Tyjolion Netanyahu Nixon.")
